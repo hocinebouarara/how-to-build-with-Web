@@ -13,7 +13,7 @@
   font-size: 64px;
 }
 .nav-bar a:hover{
-    background: #123456;
+    background: rgb(0, 0, 0);
 }
 .active{
     background: #04AA6D;
