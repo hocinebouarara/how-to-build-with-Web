@@ -1,0 +1,20 @@
+.nav-bar{
+    width: 100%;
+    background: #555;
+    overflow: auto;
+}
+.nav-bar a {
+  float: left;
+  width: 20%;
+  text-align: center;
+  padding: 20px 0;
+  transition: all 0.2s ease-in;
+  color: white;
+  font-size: 64px;
+}
+.nav-bar a:hover{
+    background: #123456;
+}
+.active{
+    background: #04AA6D;
+}
